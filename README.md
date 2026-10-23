@@ -2,6 +2,12 @@
 
 Hunt the lowest price with privacy. Price comparison across popular stores, running directly on your device.
 
+## Watch LowP
+
+https://github.com/user-attachments/assets/6fdc3ab3-ea7a-481d-ae7c-ea993fc1e97e
+
+[Download portrait video](https://github.com/vinay-winai/LowP-Public/releases/download/v0.4.0/LowP-Promo-Portrait.mp4) · [Watch landscape version](https://github.com/vinay-winai/LowP-Public/releases/download/v0.4.0/LowP-Promo-Play-Store.mp4)
+
 ## Downloads
 
 - [Download Android APK](https://github.com/vinay-winai/LowP-Public/releases/download/v0.4.0/LowP_oct_22_26.apk)
