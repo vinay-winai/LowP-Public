@@ -6,9 +6,11 @@ Hunt the lowest price with privacy. Price comparison across popular stores, runn
 
 ## Watch LowP
 
-https://github.com/user-attachments/assets/6fdc3ab3-ea7a-481d-ae7c-ea993fc1e97e
+The 1 minute 9 second demo includes everyday search plus optional Beta features: basket totals, choosing another product, and saved discounts and cashback milestones.
 
-[Download portrait video](https://github.com/vinay-winai/LowP-Public/releases/download/v0.4.0/LowP-Promo-Portrait.mp4) · [Watch landscape version](https://github.com/vinay-winai/LowP-Public/releases/download/v0.4.0/LowP-Promo-Play-Store.mp4)
+https://github.com/user-attachments/assets/6098721b-387f-47b0-9f00-87069552e689
+
+[Download portrait video](https://github.com/vinay-winai/LowP-Public/releases/download/v2026.10.24/LowP-Promo-With-Beta-portrait.mp4) · [Watch landscape version](https://github.com/vinay-winai/LowP-Public/releases/download/v2026.10.24/LowP-Promo-With-Beta-landscape.mp4)
 
 ## Downloads
 
