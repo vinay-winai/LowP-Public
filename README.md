@@ -2,7 +2,7 @@
 
 Hunt the lowest price with privacy. Price comparison across popular stores, running directly on your device.
 
-[Visit the LowP website](https://lowp.refining.online/) · [Latest release](https://github.com/vinay-winai/LowP-Public/releases/latest)
+[Visit the LowP website](https://vinay-winai.github.io/LowP-Public/) · [Latest release](https://github.com/vinay-winai/LowP-Public/releases/latest)
 
 ## Watch LowP
 
