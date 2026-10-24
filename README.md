@@ -2,6 +2,8 @@
 
 Hunt the lowest price with privacy. Price comparison across popular stores, running directly on your device.
 
+[Visit the LowP website](https://lowp.refining.online/) · [Latest release](https://github.com/vinay-winai/LowP-Public/releases/latest)
+
 ## Watch LowP
 
 https://github.com/user-attachments/assets/6fdc3ab3-ea7a-481d-ae7c-ea993fc1e97e
@@ -19,6 +21,14 @@ https://github.com/user-attachments/assets/6fdc3ab3-ea7a-481d-ae7c-ea993fc1e97e
 
 Download the APK from the release and install it on your Android device. This release contains the supplied October 24 build.
 
+### Google Play Protect scan
+
+The screenshot below shows Google Play Protect reporting “This app looks safe” for LowP during an Android installation on October 24, 2026. It records that scan result, rather than a Google endorsement or a guarantee for every build.
+
+<p align="center">
+  <a href="docs/assets/play-protect-lowp.jpg"><img src="docs/assets/play-protect-lowp.jpg" alt="Google Play Protect scan for LowP: This app looks safe. You can continue to install it." width="360"></a>
+</p>
+
 ## Chrome
 
 1. Download and extract the extension ZIP.
@@ -31,4 +41,4 @@ Sign in and choose your delivery location directly on your store websites before
 
 Chrome v0.4.0 matches the latest mobile UI: simple search, best match per store, product thumbnails, a store-pack picker, load more, and optional Beta comparisons and store offers. Preferences stay in local storage. The October 24 update closes store windows 7 seconds after the last side panel closes, uses a 30-second inactivity timeout, and adds a warning for searches taking more than 6 seconds in fullscreen or maximized windows.
 
-This repository hosts download assets and installation instructions. Development source is maintained privately.
+This repository hosts download assets, installation instructions, and the static landing page in `docs/`. Development source for the app is maintained privately.
